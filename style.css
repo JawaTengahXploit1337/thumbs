@@ -226,6 +226,9 @@ footer.footer a {
 #content-container.sty15::after {
   background: url(images/waifu.jpg);
 }
+#content-container.sty16::after {
+  background: url(images/waifu1.jpg);
+}
 
 .img-logo img {
   width: 45px;
