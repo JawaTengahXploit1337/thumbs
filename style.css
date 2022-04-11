@@ -220,6 +220,9 @@ footer.footer a {
 #content-container.sty13::after {
   background: url(images/13.png);
 }
+#content-container.sty14::after {
+  background: url(images/obito.jpg);
+}
 
 .img-logo img {
   width: 45px;
