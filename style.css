@@ -223,6 +223,9 @@ footer.footer a {
 #content-container.sty14::after {
   background: url(images/obito.jpg);
 }
+#content-container.sty15::after {
+  background: url(images/waifu.jpg);
+}
 
 .img-logo img {
   width: 45px;
