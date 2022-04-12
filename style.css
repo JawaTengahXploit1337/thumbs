@@ -229,6 +229,27 @@ footer.footer a {
 #content-container.sty16::after {
   background: url(images/waifu1.jpg);
 }
+#content-container.sty17::after {
+  background: url(images/neon.jpg);
+}
+#content-container.sty18::after {
+  background: url(images/neon1.jpeg);
+}
+#content-container.sty19::after {
+  background: url(images/coding.jpg);
+}
+#content-container.sty20::after {
+  background: url(images/coding1.jpg);
+}
+#content-container.sty21::after {
+  background: url(images/coding2.jpg);
+}
+#content-container.sty22::after {
+  background: url(images/coretan.jpg);
+}
+#content-container.sty23::after {
+  background: url(images/hacker.jpg);
+}
 
 .img-logo img {
   width: 45px;
