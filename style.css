@@ -250,6 +250,18 @@ footer.footer a {
 #content-container.sty23::after {
   background: url(images/hacker.jpg);
 }
+#content-container.sty24::after {
+  background: url(images/zero.jpg);
+}
+#content-container.sty25::after {
+  background: url(images/zero1.jpg);
+}
+#content-container.sty26::after {
+  background: url(images/ciwi.jpg);
+}
+#content-container.sty27::after {
+  background: url(images/ciwi1.jpg);
+}
 
 .img-logo img {
   width: 45px;
